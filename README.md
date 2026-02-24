@@ -1,6 +1,3 @@
-# Cocinologia-
-cooking web
-[index.html..txt](https://github.com/user-attachments/files/25518668/index.html.txt)
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   Search, 
